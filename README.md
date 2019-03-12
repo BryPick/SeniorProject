@@ -11,7 +11,7 @@ A lot of the files were done by myself. I marked all the .php files that were do
 ```
 
 Files not done by me are:  
-Anything under /Business/Bus  
+Anything under inc/Business/Bus  
 busdriverroster.php  
 finalBusSchdule.php  
 generateSchdule.php  
