@@ -1,4 +1,7 @@
 <?php
+    /**
+        Done by Bryan Pickering
+     */
     require_once(__DIR__."/../../Business/Congregation/CongregationBlackout.class.php");
     require_once(__DIR__."/../../Business/Congregation/CongregationSchedule.class.php");
     require_once(__DIR__."/../../Business/Congregation/Congregation.class.php");

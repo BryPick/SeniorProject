@@ -1,4 +1,7 @@
 <?php
+    /**
+        Done by Bryan Pickering
+     */
     require_once(__DIR__."/../../Business/Congregation/LegacyHostBlackout.class.php");
     $LegacyHostBlackout  = new LegacyHostBlackout();
 

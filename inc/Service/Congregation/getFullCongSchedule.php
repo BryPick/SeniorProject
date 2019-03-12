@@ -1,4 +1,7 @@
 <?php
+    /**
+        Done by Bryan Pickering
+     */
     require_once(__DIR__."/../../Business/Congregation/CongregationSchedule.class.php");
     $CongregationSchedule = new CongregationSchedule();
 
