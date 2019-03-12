@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baaa8db4-e269-45e0-8b9c-bb8ce2f4d02f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchEligibleCongregations.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchEligibleCongregations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchScheduledRotationNums.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchScheduledRotationNums.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchblackoutweeks.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchblackoutweeks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchcongblackouts.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchcongblackouts.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchcongregations.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchcongregations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchcoordinatoremails.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchcoordinatoremails.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchfinalizedrotationnums.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchfinalizedrotationnums.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchfinalizedschedules.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchfinalizedschedules.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchfullschedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchfullschedule.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchrotations.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchrotations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchselectedblackoutweeks.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchselectedblackoutweeks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/fetchselectedrotation.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/fetchselectedrotation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/finalizeschedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/finalizeschedule.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/getFlaggedCongregations.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/getFlaggedCongregations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/getFullCongSchedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/getFullCongSchedule.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/insertcongblackoutdata.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/insertcongblackoutdata.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/schedulecongregations.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/schedulecongregations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/sendfinalcongschedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/sendfinalcongschedule.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/sendindividualemail.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/sendindividualemail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/Service/Congregation/updateCongSch.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/Service/Congregation/updateCongSch.php" afterDir="false" />
-    </list>
+    <list default="true" id="baaa8db4-e269-45e0-8b9c-bb8ce2f4d02f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +12,7 @@
     <session id="-873533517">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -109,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/Service/Congregation/updateCongSch.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="289">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -271,16 +251,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552410330880</updated>
-      <workItem from="1552410332241" duration="2421000" />
+      <workItem from="1552410332241" duration="3097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2421000" />
+    <option name="totallyTimeSpent" value="3097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -650,8 +629,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/Service/Congregation/updateCongSch.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="289">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
         </state>
       </provider>
     </entry>
