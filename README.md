@@ -10,13 +10,14 @@ A lot of the files were done by myself. I marked all the .php files that were do
 */
 ```
 
-Files not done by me are:
--Anything under /Business/Bus  <br />
+Files not done by me are:  
 
--busdriverroster.php  <br />
+-Anything under /Business/Bus  
 
--finalBusSchdule.php  <br />
+-busdriverroster.php  
 
--generateSchdule.php  <br />
+-finalBusSchdule.php  
 
--inputBusBlackouts.php  <br />
+-generateSchdule.php  
+
+-inputBusBlackouts.php
