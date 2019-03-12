@@ -11,16 +11,12 @@ A lot of the files were done by myself. I marked all the .php files that were do
 ```
 
 Files not done by me are:
--Anything under /Business/Bus  
+-Anything under /Business/Bus  <br />
 
+-busdriverroster.php  <br />
 
--busdriverroster.php  
+-finalBusSchdule.php  <br />
 
+-generateSchdule.php  <br />
 
--finalBusSchdule.php  
-
-
--generateSchdule.php  
-
-
--inputBusBlackouts.php  
+-inputBusBlackouts.php  <br />
